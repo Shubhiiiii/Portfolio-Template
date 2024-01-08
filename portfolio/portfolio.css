@@ -1,0 +1,535 @@
+* {
+    margin: 0% 0%;
+    font-family: sans-serif;
+  }
+ 
+  .page-1 {
+    margin-top: 3%;
+    margin-left: 7%;
+  }
+ 
+  .web-portfolio {
+    font-size: 300%;
+    margin-bottom: 2%;
+    font-family: 'Inter', sans-serif;
+    color: rgba(67, 101, 219, 1);
+  }
+  .heading-1 {
+    font-size: 250%;
+    margin-bottom: 5%;
+    font-family: 'Poppins', sans-serif;
+  }
+ 
+  .h1 {
+    color: rgba(67, 101, 219, 1);
+  }
+ 
+  .para1 {
+    font-size: 170%;
+    width: 27%;
+    color: #a29ba9;
+    margin-bottom: 4%;
+    font-family: 'Poppins', sans-serif;
+  }
+ 
+  .button-left,
+  .button-right {
+
+    display: inline-block;
+    padding: 22px;
+    margin-right: 7%;
+    margin-bottom: 5%;
+    font-size: 120%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    
+  }
+  
+  .button-right:hover
+  {
+    box-shadow: 4px 4px 4px rgb(178, 174, 174);
+  }
+  .button-left:hover
+  {
+    box-shadow: 4px 4px 4px rgb(178, 174, 174);
+  }
+ 
+  .button-left {
+    /* border-color: #861fed; */
+    background-color: rgba(190, 55, 212, 1);
+    color: white;
+    width: 107px;
+    height: 22px;
+    text-align: center;
+  }
+ 
+  .button-right {
+    color: black;
+    background-color: rgba(196, 196, 196, 1);
+    text-align: center;
+  }
+ 
+  .socials {
+    font-size: 199%;
+    margin-top: 15%;
+    font-weight: bold;
+    font-family: 'Righteous', cursive;
+  }
+  .fa {
+    padding: 25px;
+    font-size: 30px;
+    width: 23px;
+    text-align: center;
+    text-decoration: none;
+    margin: 19px 1px;
+    padding-left: 13px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    color: black;
+    background: white;
+    margin-left: -18px;
+    
+  }
+  
+  .fa-twitter {
+    color: black;
+    background: white;
+  }
+  
+  
+  .fa-linkedin {
+    color: black;
+    background: white;
+  }
+  
+  
+  .fa-instagram {
+    color: black;
+    background: white;
+  }
+ 
+  .img i {
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 10px;
+  }
+ 
+  #pinkbg{
+    height: 1215px;
+    width: 649px;
+    }
+    
+    .parentContainer {
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        border: 0px solid #e3d3f373;
+        background-color: white;
+        padding-top: 0%;
+        padding-left: 0%;
+        font-family: 'Inter', 'sans-serif', bold;
+        color: white;
+        font-size: 14px;
+        float: right;
+    }
+  #pp
+  {
+    position: absolute;
+    right: -127px;
+    top: 203px;
+    height: 1055px;
+  }
+    .about_me {
+    position: absolute;
+    top: 16px;
+    left: 189px;
+    }
+    
+    .my_projects {
+    position: absolute;
+    top: 16px;
+    left: 382px;
+    }
+    
+    .contact {
+    position: absolute;
+    top: 16px;
+    left: 566px;
+    }
+    
+    .home {
+    position: absolute;
+    top: 16px;
+    left: 15px;
+    }
+ 
+  .ornament-1 {
+    overflow: hidden;
+    position: absolute;
+    top: 171%;
+    right: 72%;
+  }
+ 
+  .ornament-1 img {
+    max-width: initial;
+    width: 433px;
+    height: 706px;
+  }
+ 
+
+  .content {
+    margin-left: 55%;
+    margin-top: 8%;
+  }
+ 
+  .heading2 {
+    font-size: 214%;
+    font-family: 'Poppins', sans-serif ;
+  }
+ 
+  .para2{
+    font-size: 181%;
+    width: 77%;
+    color: rgba(167, 160, 160, 1);
+    margin-top: 6%;
+    margin-bottom: 8%;
+    font-family: 'Poppins', sans-serif ;
+  }
+  .experience
+  {
+    font-size: 100px;
+    color: rgba(55, 99, 212, 1);
+    margin-top: 9%;
+    font-family: 'Roboto', sans-serif;
+  }
+  .project
+  {
+    font-size: 100px;
+    color: rgba(55, 99, 212, 1);
+    margin-top: 9%;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -15%;
+    margin-left: 50%;
+  }
+  .years
+  {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 19px;
+    margin-left: 20%;
+    margin-top: -9%;
+  }
+  .pro
+  {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 19px;
+    margin-left: 38%;
+    margin-top: -20%;
+  }
+
+ 
+  button{
+    background-color: rgba(55, 99, 212, 1);
+    padding: 22px;
+    /* box-shadow: -7px -4px 10px rgba(70, 69, 69, 0.29), */
+      /* 7px 4px 10px rgba(0, 0, 0, 0.28); */
+    border-radius: 5px;
+    font-size: 116%;
+    color: white;
+    font-family: 'Poppins', sans-serif ;
+    height:66px;
+    margin-top: 19%;
+    border-color: white;
+  }
+ 
+  .fa-arrow-right
+  {
+    height: 19px;
+    width: 100px;
+  }
+ 
+  .heading3 {
+    text-align: center;
+    margin-top: 9%;
+    font-size: 250%;
+    font-family: 'Poppins', sans-serif ;
+    position:relative;
+  }
+  .heading3::after
+  {
+    content:'';
+  height:3px;
+  width:5%;
+  background:rgba(27, 86, 237, 1);
+  position:absolute;
+  right:47%;
+  bottom:8px;
+  }
+ .card-1::after, 
+ .card-2::after, 
+ .card-3::after
+ {
+  content:'';
+  height:2px;
+  width:29%;
+  background:rgba(27, 86, 237, 1);
+  position:absolute;
+  right:59%;
+  bottom:101px;
+
+ }
+  .card-1,
+  .card-2,
+  .card-3 {
+    position: relative;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 10% 4% 2% 2%;
+    background-color: #ebedf9;
+    font-size: 150%;
+    width: 14%;
+  }
+ 
+  .cards {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 5%;
+
+  }
+ 
+  u {
+    /* text-decoration: underline rgba(27, 86, 237, 1); */
+
+  }
+ 
+  .page-3 i {
+    color: rgba(27, 86, 237, 1);
+  }
+ 
+  .card-2 {
+    background: #FFFFFF;
+    box-shadow: 3px 5px 40px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+  }
+  .fa-arrow-right
+  {
+    width: 10px;
+  }
+
+  .card-1, .card-3
+  {
+    background: linear-gradient(180deg, #C4C4C4 0%, rgba(204, 145, 163, 0.705357) 29.46%, rgba(224, 24, 84, 0) 100%);
+  }
+ 
+  .card-2 p {
+    margin-top: 10%;
+    color: rgba(27, 86, 237, 1);
+    font-size: 80%;
+    font-family: 'Poppins', sans-serif ;
+  }
+  .cards h2{
+    font-family: 'Poppins', sans-serif ;
+  }
+  .cards u{
+    font-family: 'Poppins', sans-serif ;
+  }
+ 
+  .heading4 {
+    position:relative;
+    text-align: center;
+    font-size: 250%;
+    margin-top: 13%;
+    font-family: 'Poppins', sans-serif ;
+  }
+  .heading4::after
+  {
+    content:' ';
+    height:3px;
+    width:6%;
+    background:rgba(27, 86, 237, 1);
+    position:absolute;
+    right:49%;
+    bottom:0px;
+  }
+ 
+  .page-4 img {
+    width: 315px;
+    height: 251px;
+    border-radius: 20px 20px 0px 0px;
+  }
+ 
+  .myproject1,
+  .myproject2,
+  .myproject3 {
+    background: linear-gradient(359.33deg, #E01854 -19.21%, rgba(24, 140, 224, 0.766667) 100.55%, rgba(224, 24, 84, 0) 103.49%);
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+ 
+  }
+ 
+  .myprojects {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 3%;
+    padding: 59px;
+  }
+ 
+  .page-4 p {
+    font-size: 20px;
+    color: #a29ba9;
+    height: 86px;
+    width: 301px;
+    padding-left: 5%;
+  }
+ 
+  .page-4 h2 {
+    padding-top: 3%;
+    padding-left: 5%;
+    font-family: 'Ubuntu', sans-serif;
+  }
+ 
+  .page-4 h4 {
+    padding-left: 5%;
+    padding-bottom: 5%;
+    color: rgba(8, 46, 183, 1);
+    font-family: 'Ubuntu', sans-serif;
+  }
+ 
+  .heading5 {
+    position:relative;
+    text-align: center;
+    font-size: 250%;
+    margin-top: 13%;
+    font-family: 'Poppins', sans-serif ;
+  }
+  .heading5::after{
+    content:' ';
+    height:3px;
+    width:6%;
+    background:rgba(27, 86, 237, 1);
+    position:absolute;
+    right:49%;
+    bottom:0px;
+
+  }
+ 
+  form {
+    margin-left: 8%;
+    margin-top: 8%;
+    color: white;
+  }
+ 
+  #name,
+  #email,
+  #subject,
+  #feedback {
+    display: block;
+    background-color: rgba(190, 182, 182, 1);
+    border-color: white;
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+  }
+  ::placeholder
+  {
+    color: white;
+    font-size: 20px;
+    padding: 13px;
+  }
+ 
+  input {
+    background-color: rgba(67, 101, 219, 1);
+    padding: 18px;
+    border-radius: 4px;
+    font-size: 124%;
+    color: white;
+    margin-top: 2%;
+    font-family: 'Ubuntu', sans-serif;
+    border-color: white;
+  }
+ 
+  .design2{
+    position: absolute;
+    left: 86%;
+  }
+ 
+  .end {
+    border: 1px solid white;
+    background-color: #ffffff;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    margin-top: 3%;
+    text-align: center;
+    font-size: 110%;
+    color: black;
+    gap: 10%;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .end i
+  {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 110%;
+  }
+  #myBtn {
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+  }
+ 
+  .icons i {
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 10px;
+    color: black;
+  }
+ 
+  input:hover,
+  button:hover {
+    background-color: rgba(112, 136, 223, 1);
+  }
+ 
+  .cards i:hover,
+  .cards p:hover {
+    color: rgba(113, 109, 109, 1);
+  }
+ 
+  .card-2:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px;
+    background-color: white;
+  }
+ 
+  .myprojects h4:hover {
+    color: rgba(113, 109, 109, 1);
+  }
+ 
+  .myproject1:hover,
+  .myproject2:hover,
+  .myproject3:hover
+  {
+    transform: scale(1.0);
+    box-shadow: 5px 5px 10px;
+    background-color: rgb(70, 66, 61);
+  }
+  
+  .end i:hover,
+  .page-1 i:hover {
+    padding: 15px;
+    background-color: plum;
+  }
+  #a:hover,
+  #b:hover
+  {
+    transform: scale(1.1);
+    opacity: 0.8;
+  }
